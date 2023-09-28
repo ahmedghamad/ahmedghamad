@@ -3,7 +3,7 @@
 
 ### Ahmed Hamad here.👋
 
-Aspiring software engineer - I am currently using Python, Django, HTML, CSS, Bootstrap and SQL.
+software engineer - I am currently using JavaScript, Node.js, Express.js, C, Python, Django, HTML, CSS, Bootstrap and SQL.
 
 I have a bachelor's degree in marketing and international business, a hard working professional  that has worked in various industries for over 10 years before finding my passion for logical thinking and problem solving.
  
